@@ -1,0 +1,4 @@
+on post-fs
+	mount none /vendor/lost+found /vendor/etc/audio bind
+
+
